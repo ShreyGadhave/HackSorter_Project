@@ -1,0 +1,164 @@
+{
+  "candidates": [
+    {
+      "personal_info": {
+        "name": "Alice Chen",
+        "email": "alice@example.com",
+        "phone": "+1-555-0101",
+        "location": "San Francisco, CA"
+      },
+      "resume": {
+        "text": "Alice Chen | Senior Full-Stack Engineer | alice@example.com | github.com/alicechen | San Francisco, CA\n\nEXPERIENCE\nTechCorp (2020-Present) - Senior Full-Stack Engineer\n- Led development of microservices architecture serving 10M+ users\n- Implemented real-time data streaming with WebSockets\n- Mentored 5 junior engineers, conducted code reviews\n- 40% reduction in API response time through optimization\n\nStartupXYZ (2018-2020) - Full-Stack Engineer\n- Built React frontend for SaaS platform with 50K+ users\n- Designed PostgreSQL database schema for 100M+ records\n- Implemented FastAPI backend with async/await patterns\n- Created CI/CD pipeline reducing deployment time by 60%\n\nWebDev Solutions (2016-2018) - Junior Developer\n- Developed features using Django and React\n- Maintained legacy codebase and refactored critical components\n- Fixed 200+ bugs, achieved 95% test coverage\n\nEDUCATION\nUC Berkeley - B.S. in Computer Science (2016)\nRelevant Coursework: Distributed Systems, Database Systems, Machine Learning\n\nSKILLS\nLanguages: Python, JavaScript, TypeScript, SQL\nBackend: FastAPI, Django, Node.js, PostgreSQL, Redis\nFrontend: React, Vue.js, Tailwind CSS, Redux\nDevOps: Docker, Kubernetes, GitHub Actions, AWS\nOther: LangChain, LangGraph, REST APIs, GraphQL\n\nPROJECTS\n- Multi-Agent Hiring System: Built AI-powered candidate evaluation with 7 specialized agents\n- Real-Time Streaming Dashboard: WebSocket-based analytics platform\n- Microservices Migration: Led team migrating monolith to microservices architecture"
+      },
+      "github": {
+        "url": "https://github.com/alicechen",
+        "stats": {
+          "public_repos": 25,
+          "public_gists": 12,
+          "followers": 850,
+          "following": 120,
+          "total_stars": 2400
+        },
+        "top_languages": ["Python", "JavaScript", "TypeScript", "SQL"],
+        "recent_projects": [
+          {
+            "name": "hiring-system-ai",
+            "stars": 450,
+            "description": "Multi-agent AI system for automated candidate evaluation",
+            "language": "Python"
+          },
+          {
+            "name": "real-time-analytics",
+            "stars": 280,
+            "description": "Real-time data streaming and visualization platform",
+            "language": "JavaScript"
+          },
+          {
+            "name": "microservices-toolkit",
+            "stars": 190,
+            "description": "Toolkit for building scalable microservices",
+            "language": "Python"
+          }
+        ]
+      },
+      "cover_letter": {
+        "text": "Dear Hiring Manager,\n\nI am excited to apply for the Senior Full-Stack Engineer position at your company. With 8 years of experience building scalable web applications and leading engineering teams, I am confident in my ability to contribute significantly to your organization.\n\nThroughout my career, I have demonstrated expertise in both frontend and backend development. At TechCorp, I led the development of a microservices architecture that now serves over 10 million users, while at StartupXYZ, I designed and implemented a PostgreSQL database handling 100 million records.\n\nWhat excites me about this role is the opportunity to work on challenging technical problems while mentoring the next generation of engineers. I am particularly interested in your company's focus on innovative AI solutions and real-time data processing, areas where I have significant hands-on experience.\n\nI am motivated by solving complex engineering challenges and creating systems that have real impact. My proven track record of optimizing performance (40% reduction in API response time), implementing CI/CD pipelines (60% faster deployments), and mentoring junior engineers makes me well-suited for a senior position.\n\nI would welcome the opportunity to discuss how my skills and experience align with your team's needs.\n\nBest regards,\nAlice Chen"
+      },
+      "job_description": {
+        "title": "Senior Full-Stack Engineer",
+        "company": "TechVenture Inc.",
+        "location": "San Francisco, CA (Remote Available)",
+        "experience_required": "5+ years",
+        "description": "We're seeking a Senior Full-Stack Engineer to lead the development of our next-generation AI-powered hiring platform. You'll work on scalable backend systems and modern frontend applications while mentoring junior developers.",
+        "responsibilities": [
+          "Design and implement RESTful APIs and microservices using Python/FastAPI",
+          "Build responsive web applications with React and modern JavaScript frameworks",
+          "Lead code reviews and establish best practices for the engineering team",
+          "Optimize database performance and implement caching strategies",
+          "Deploy and maintain applications on cloud infrastructure (AWS/GCP)",
+          "Collaborate with product managers to define technical requirements"
+        ],
+        "required_skills": [
+          "Python (FastAPI, Django, or Flask)",
+          "React and modern JavaScript (ES6+, TypeScript)",
+          "Database design (PostgreSQL, MongoDB)",
+          "RESTful API design and microservices architecture",
+          "Docker and containerization",
+          "CI/CD pipelines and DevOps practices",
+          "Strong problem-solving skills",
+          "Excellent communication and mentoring abilities"
+        ],
+        "preferred_skills": [
+          "Machine learning/AI integration",
+          "LangChain or similar AI frameworks",
+          "Real-time data streaming (WebSockets, Server-Sent Events)",
+          "Cloud deployment (AWS Lambda, Heroku, Railway)",
+          "Open source contributions",
+          "Multi-agent systems experience"
+        ]
+      }
+    },
+    {
+      "personal_info": {
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "phone": "+1-555-0102",
+        "location": "Austin, TX"
+      },
+      "resume": {
+        "text": "Bob Johnson | Full-Stack Developer | bob.johnson@example.com | Austin, TX\n\nEXPERIENCE\nWeb Solutions Inc. (2021-Present) - Full-Stack Developer\n- Developed React components and Flask APIs\n- Worked on 3 client projects with Django backend\n- Basic database management with MySQL\n\nFreelance (2019-2021) - Web Developer\n- Built websites for small businesses\n- HTML, CSS, JavaScript frontend work\n- Simple PHP backends\n\nEDUCATION\nAustin Community College - Associate's in Web Development (2019)\n\nSKILLS\nLanguages: JavaScript, Python, PHP, HTML/CSS\nFrameworks: React (basic), Flask (basic), Django (basic)\nDatabases: MySQL, SQLite\nTools: Git, GitHub"
+      },
+      "github": {
+        "url": "https://github.com/bobjohnson",
+        "stats": {
+          "public_repos": 8,
+          "public_gists": 2,
+          "followers": 45,
+          "following": 30,
+          "total_stars": 120
+        },
+        "top_languages": ["JavaScript", "Python"],
+        "recent_projects": [
+          {
+            "name": "portfolio-website",
+            "stars": 15,
+            "description": "Personal portfolio website",
+            "language": "JavaScript"
+          },
+          {
+            "name": "todo-app",
+            "stars": 8,
+            "description": "Simple todo list application",
+            "language": "Python"
+          }
+        ]
+      },
+      "cover_letter": {
+        "text": "Hi there,\n\nI'm interested in the Senior Full-Stack Engineer position. I have experience with React and Flask, and I've built several projects. I'm eager to learn and grow in this role.\n\nThanks,\nBob"
+      },
+      "job_description": {
+        "title": "Senior Full-Stack Engineer",
+        "company": "TechVenture Inc.",
+        "location": "San Francisco, CA (Remote Available)"
+      }
+    },
+    {
+      "personal_info": {
+        "name": "Carol Martinez",
+        "email": "carol.m@example.com",
+        "phone": "+1-555-0103",
+        "location": "New York, NY"
+      },
+      "resume": {
+        "text": "Carol Martinez | Software Engineer | carol.m@example.com | github.com/carolmartinez | New York, NY\n\nEXPERIENCE\nFintech Corp (2019-Present) - Software Engineer\n- Developed banking APIs in Python with FastAPI\n- Built React dashboards for financial analytics\n- Implemented PostgreSQL optimizations for high-throughput systems\n- 6 years of professional software development\n\nDigital Agency (2017-2019) - Jr. Developer\n- Full-stack web development with Django and React\n- Database design and management\n\nEDUCATION\nBoston University - B.S. in Computer Science (2017)\n\nSKILLS\nLanguages: Python, JavaScript, TypeScript, SQL\nBackend: FastAPI, Django, REST APIs\nFrontend: React, CSS3\nDatabases: PostgreSQL, MongoDB\nTools: Docker, Git, AWS"
+      },
+      "github": {
+        "url": "https://github.com/carolmartinez",
+        "stats": {
+          "public_repos": 18,
+          "public_gists": 5,
+          "followers": 320,
+          "following": 85,
+          "total_stars": 890
+        },
+        "top_languages": ["Python", "JavaScript", "TypeScript"],
+        "recent_projects": [
+          {
+            "name": "fintech-api",
+            "stars": 120,
+            "description": "High-performance banking API",
+            "language": "Python"
+          }
+        ]
+      },
+      "cover_letter": {
+        "text": "I am very interested in the Senior Full-Stack Engineer role. With 6+ years of experience in fintech, I have strong expertise in building secure, scalable APIs and modern frontends. I am particularly drawn to your company's focus on AI-driven solutions and would be excited to contribute to your team.\n\nBest regards,\nCarol"
+      },
+      "job_description": {
+        "title": "Senior Full-Stack Engineer",
+        "company": "TechVenture Inc.",
+        "location": "San Francisco, CA (Remote Available)"
+      }
+    }
+  ]
+}
